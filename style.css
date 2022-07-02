@@ -7984,6 +7984,23 @@ a.bg-dark:focus, a.bg-dark:hover, button.bg-dark:focus, button.bg-dark:hover {
     margin-left: auto !important
 }
 
+.video-section.row {
+    height: 320px;
+    margin-bottom: 20px !important;
+}
+
+.video-content--mobile {
+    margin-bottom: 20px !important;
+}
+
+section#hero h1 {
+    font-size: 3rem !important;
+}
+
+a.text-color-main {
+    font-size: 3rem !important;
+}
+
 @media (min-width:576px) {
     .m-sm-0 {
         margin: 0 !important
